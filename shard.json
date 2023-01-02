@@ -1,0 +1,11 @@
+{
+  "name": "react-classnames",
+  "owner": "Seiyial",
+  "prefix": "sol",
+  "provider": "github",
+  "defaultInstallRelativePath": "src/lib/utils",
+  "defaultFiles": [
+    "classnames.ts"
+  ],
+  "customInstallerPath": null
+}
